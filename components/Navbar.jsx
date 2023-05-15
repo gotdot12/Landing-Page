@@ -27,6 +27,7 @@ const Navbar = () => (
         src="/menu.svg"
         alt="menu"
         className="w-[24px] h-[24px] object-contain"
+        style={{ visibility: 'hidden' }}
       />
     </div>
   </motion.nav>
