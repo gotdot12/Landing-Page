@@ -19,7 +19,7 @@ const World = () => (
       <TypingText title="| People around the World" textStyles="text-center" />
       <TitleText
         title={(
-          <>You can refer people from around the world no limitation applied</>
+          <>You can bring people from around the world. Limitless possibilities</>
         )}
         textStyles="text-center"
       />
