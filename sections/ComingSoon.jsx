@@ -6,7 +6,7 @@ import { TitleText, TypingText } from '../components';
 
 const ComingSoon = () => (
   <section className={`${styles.paddings} relative z-10`}>
-    <div>
+    <div className={`${styles.innerWidth} mx-auto flex flex-col`}>
       <TypingText title="| Upcoming Updates" textStyles="text-center" />
       <TitleText
         title={(
